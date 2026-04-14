@@ -1,2 +1,13 @@
-Student exploring cybersecurity, ethical hacking and low-level systems.
-Linux enthusiast who enjoys understanding how things really work.
+--     ____  ____  _     ____  ____  _    ___  _   _____ ____  ____  ____ _____ 
+      / ___\/  __\/ \   /  _ \/ ___\/ \ /|\  \//  /    //  __\/  _ \/ ___Y__ __\
+      |    \|  \/|| |   | / \||    \| |_|| \  /   |  __\|  \/|| / \||    \ / \  
+      \___ ||  __/| |_/\| |-||\___ || | || / /    | |   |    /| \_/|\___ | | |  
+      \____/\_/   \____/\_/ \|\____/\_/ \|/_/     \_/   \_/\_\\____/\____/ \_/  
+
+      OS..........................................Fedora Linux
+      Host........................................None, Inc.
+      Kernel......................................Linux (Hyprland setup)
+      IDE.........................................Vim, nano
+      Study.......................................Cybersecurity, AI
+      Hobbies.....................................Coding, CTFs
+      Languages...................................Python, C, Bash, HTML, CSS, JS
